@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SQRT_JohnCarmack", "SQRT_JohnCarmack\SQRT_JohnCarmack.vcxproj", "{74179848-8208-4532-9177-B748F0466E22}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RSQRT_JohnCarmack", "RSQRT_JohnCarmack\RSQRT_JohnCarmack.vcxproj", "{74179848-8208-4532-9177-B748F0466E22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
